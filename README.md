@@ -1,6 +1,5 @@
 # Hi, I'm Andrea Castro 👋🏻
 
 <p align="center">
-  
-  <img src="https://github.com/AndreC1902/AndreC1902/blob/main/andreac1902bg.png" />
+  <img src="https://github.com/AndreC1902/AndreC1902/blob/main/andreac1902bgo.png" />
 </p>
